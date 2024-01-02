@@ -1,1 +1,1 @@
-## Welcome to React Custom app
+## Welcome to Custom React app
